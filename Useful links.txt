@@ -1,0 +1,148 @@
+
+хороший код I:\AUnityGames\ЧекЧужогоКода
+
+ПУТЬ https://www.youtube.com/watch?v=aJGJMPGDFrU
+Поиск пути https://www.youtube.com/watch?v=LrDYS4RxCXA
+
+создать дерево за 5 минут лоли попе https://www.youtube.com/watch?v=n9eKpHwyC70&list=PLbRGz4O0Wr0vr-WFMCz5GF1pOksCA35nQ
+
+Как получить нужный компонент скрипта (c 3 минуты) https://www.youtube.com/watch?v=vX5A3POECtE
+
+dots https://www.youtube.com/watch?v=EtxMY2J17hM&t=652s
+https://www.youtube.com/watch?v=B3SFWm9gkL8
+
+резулььтат игры на СО https://www.youtube.com/watch?v=hI_GCIM8EJM
+ScriptableObject на примере зданий в стратегии + хак для редактора https://lk.ijunior.ru/Article/Detail/4
+
+тряска экрана https://www.youtube.com/watch?v=0ZOgQaBklUw
+
+музыка https://www.youtube.com/watch?v=NVvIM9Riv00
+
+Качество игры https://unity3dschool.ru/kak-nastroit-quality-kachestvo-grafiki-v-unity.html
+Нарисовать персонажа https://www.youtube.com/watch?v=FV3PXI2SMT8
+тайл под тайл или чето там про тайл https://www.youtube.com/watch?v=uT6k3HOcMHI
+
+Расшерение юнити https://www.youtube.com/watch?v=fqjGB1lpSaE
+https://www.youtube.com/watch?v=2dsoFUtQ0ck&t=2s -вообще топ
+Оптимизация проекта в Unity. Что такое Profiler https://lk.ijunior.ru/Article/Detail/46
+
+генерация мира https://www.youtube.com/watch?v=iG_n23W952Y
+https://www.youtube.com/watch?v=QrD6rHbc4oo&t=4s
+
+работа с корутинами https://habr.com/ru/post/216185/
+
+загрузочный экран https://www.youtube.com/watch?v=QfO11O4pUp8&t=867s
+
+сторить здания в стратегии https://www.youtube.com/watch?v=p8kT-jm48gM
+
+защита от читеров https://www.youtube.com/watch?v=LOyGYOqBZSc
+
+event action эвенты евенты https://www.youtube.com/watch?v=3ZfwqWl-YI0
+события https://www.youtube.com/watch?v=RUz6E6D7Odg&t=2s
+просто о делегатах https://www.youtube.com/watch?v=JcjXBXawL3M
+стaтья где события !делегаты https://habr.com/ru/post/198694/
+делегаты и события от сакутина https://www.youtube.com/watch?v=472tsvAgadc&feature=emb_logo 
+UnityEvent or Action  https://www.youtube.com/watch?v=oc3sQamIh-Q
+
+100 игровых механик https://www.youtube.com/watch?v=hq5fofOLI6w
+
+получение дочернего объекта 4 пункт видео https://www.youtube.com/watch?v=7_zl9XuwRSY&t=1s
+
+ниче не понятно, мб когданеть пойму https://www.youtube.com/watch?v=Di8p9yVIWNs
+
+масивы юнити https://habr.com/ru/post/142285/
+
+обрезка видео https://online-video-cutter.com/
+шаблон экономики https://www.youtube.com/watch?v=8BaNOlIfMLE
+
+онлайн игры https://www.youtube.com/watch?v=DCRY2PvU1uw
+
+queue https://www.youtube.com/watch?v=tdSmKaJvCoA
+
+сохранение выбора персонажа https://www.youtube.com/watch?v=KQFmB0zkpWc&t=100s
+
+не понятно про объединение 2 патерна при интерфейсах https://www.youtube.com/watch?v=MFwiqvk-DN8
+
+че делать после сборки ПК youtube.com/watch?v=N2wcMzTSFcs
+
+human 3d generic to humanoid https://www.youtube.com/watch?v=1DGJa9LuMVg
+
+СО на примере стратегии ы https://lk.ijunior.ru/Article/Detail/4
+
+луч смерти через частицы https://vk.com/@holymonkey_sandbox-razbor-effekta-nashego-studenta-lazernyi-luch-smerti
+гайд по созданию базовых текстур для спецэффектов в фотошопе https://www.youtube.com/watch?v=hySgDB3AI4o
+
+ez musicc https://www.youtube.com/watch?v=2jLeuviQ7Ho&feature=emb_logo
+
+создать персонажа за 10 мин https://www.youtube.com/watch?v=TZDnV4KshM8
+
+mvc https://ru.stackoverflow.com/questions/391369/mvc-%D0%B2-unity-%D0%9D%D0%B0%D0%B4%D0%BE-%D0%BB%D0%B8-%D0%95%D1%81%D0%BB%D0%B8-%D0%B4%D0%B0-%D1%82%D0%BE-%D0%BA%D0%B0%D0%BA
+
+fps rdy game https://www.youtube.com/watch?v=jE3ZJ_tCGTo
+
+стрельба 2д https://www.youtube.com/watch?v=wkKsl1Mfp5M
+
+паттерны https://refactoring.guru/ru/design-patterns/csharp
+
+probilder пробилдер https://www.youtube.com/watch?v=YtzIXCKr8Wo
+
+How to save your game states and settings https://www.youtube.com/watch?v=uD7y4T4PVk0
+
+https://www.youtube.com/watch?v=h9oEhVqGptU
+
+Сохранения https://habr.com/ru/post/163071/
+
+загрузка сцены https://www.youtube.com/watch?v=I4HtF4CHjgE&t=1s
+
+Unity job system. Как применять потоки в юнити неявно https://www.youtube.com/watch?v=xsKQkf15HR4
+
+интерполяция https://www.youtube.com/watch?v=Y6SL2_8ed14
+
+3 примера паттернов в Unity: Visitor, Observer, Decorator https://www.youtube.com/watch?v=dSfE3_c0FYo
+
+камера по ширине https://www.youtube.com/watch?v=0cmxFjP375Y&t=393s
+
+вода 2д https://www.youtube.com/watch?v=1BUMZy4HEn4
+
+тени baked lighting, mixed lighting посмотри
+
+нарисовать фон https://www.youtube.com/watch?v=ZUlmixhQSYs
+
+спрайты пиксельарт https://www.youtube.com/watch?v=6L6NGqsQFGM
+вообще класны пиксельи https://www.youtube.com/watch?v=76JelvF2RQc
+
+текстура в крите https://www.youtube.com/watch?v=fGNKylGjKdQ
+
+8 способов создания отверстий в Blender https://www.youtube.com/watch?v=tQdV-PJfbGI
+
+создание лоу поли здания https://www.youtube.com/watch?v=v3aq9gwSIOM
+
+полнеый пайплайн создания 3д уровня https://www.youtube.com/watch?v=wRPvaUYKsEA
+
+profiler https://www.youtube.com/watch?v=oWaBW8A1pmQ
+
+подбор цвета https://www.youtube.com/watch?v=QUoiHYw93zc
+основы цветовой теории https://www.youtube.com/watch?v=NH1TLyiJVHU
+основы композиции https://www.youtube.com/watch?v=QcuInap1lQ4
+autodesk sketchbook https://www.youtube.com/watch?v=ILtaBIyF898
+
+deep music https://www.youtube.com/watch?v=pAQTUZz0T_0&feature=emb_logo
+
+
+при старте игры краткое описания - 
+"Для победы, играя рукой следует загнать мяч в лунку n-ое количество раз"
+
+вопросы хиихи
+Что такое c#?
+Что вы знаете о Garbage collector'e ?
+Когда вызывается статический конструктор?
+В чем преимущество StringBuilder перед String ?
+Что такое Linq?
+Delegate и Enum после компиляции?
+если у тебя ивент и у нее 2 функции . в первой вылетает ошибка 2ая будет вызвана или нет.
+Как реализовывать правильно интерфейсы в структуре и какие это накладывает особенности на их поведение?
+
+Стат конструктор перед обычным вызывается, потом инициализатор, потом обычный конструктор. Стринг билдер изменяет существующую память под строку, в то время как стринг анмютабл тип и его конкатенация в обычных условиях приводит к выделению новой памяти, даже елси только одну букву добавляем.
+
+кучу времени убил на то чтоб в приложении музыка не обрывалась при переходе,думал это поможет,но не судьба,DontDestroyOnLoad() только и помогает.
+Юнити позволяет асинхронно загружать и выгружать сцены, можно загрузить сцену с постоянно работающими компонентами и просто не выгружать её всё время работы. Таким образом можно загружать и выгружать игровые сцены, но сцена со всякими менеджерами будет висеть постоянно и работать без DontDestroyOnLoad(). Я пока таким способом пользуюсь
